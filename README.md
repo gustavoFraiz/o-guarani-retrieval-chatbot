@@ -39,10 +39,4 @@ The book text itself is not duplicated in this repository package.
     └── o_guarani_chatbot.ipynb
 ```
 
-## Authorship note
 
-The recovered notebook does not contain an explicit collaborator/author block,
-so this repository does not invent contributor names. Credits can be amended
-if there were collaborators.
-
-No license is included by default.
